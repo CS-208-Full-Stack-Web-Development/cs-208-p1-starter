@@ -25,7 +25,9 @@ tools setup and configured can take some time so make sure and start this as
 early as possible so if you hit any snags you can get help before the due date
 passes 😃.
 
-* [Install VSCode and Git](https://shanepanter.com/teaching/vscode-tips-and-tricks.html)
+* [Install VSCode](https://code.visualstudio.com/docs/setup/setup-overview)()
+* [Install Git](https://git-scm.com/downloads)
+* [Read Git + VSCode](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git)
 * Install [NodeJS](https://nodejs.org/en/download)
 * **Reboot your computer**! Don't skip this step!
 * Read about [terminal basics](https://code.visualstudio.com/docs/terminal/basics)
